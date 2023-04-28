@@ -1,3 +1,5 @@
+# Shortest Bridge
+
 You are given an n x n binary matrix grid where 1 represents land and 0 represents water.
 
 An island is a 4-directionally connected group of 1's not connected to any other 1's. There are exactly two islands in grid.
