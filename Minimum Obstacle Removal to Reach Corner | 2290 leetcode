@@ -23,6 +23,8 @@ Note that there may be other ways to remove 2 obstacles to create a path.
 
 Example 2:
 
+
+
 Input: grid = [[0,1,0,0,0],[0,1,0,1,0],[0,0,0,1,0]]
 
 Output: 0
