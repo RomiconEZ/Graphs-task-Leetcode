@@ -16,7 +16,7 @@ A BST (binary search tree) is a binary tree where each node satisfies the follow
 
 A leaf is a node that has no children.
 
-Example 1:
+## Example 1:
 
 ![image](https://user-images.githubusercontent.com/94119476/235191724-dc234db0-be77-4129-8753-6a1d32d774d0.png)
 
