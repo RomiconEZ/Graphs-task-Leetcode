@@ -6,13 +6,13 @@ You may change 0's to 1's to connect the two islands to form one island.
 
 Return the smallest number of 0's you must flip to connect the two islands.
 
-#Example 1:
+Example 1:
 
   Input: grid = [[0,1],[1,0]]
 
   Output: 1
 
-#Example 2:
+Example 2:
 
   Input: grid = [[0,1,0],[0,0,0],[0,0,1]]
 
@@ -24,7 +24,7 @@ Return the smallest number of 0's you must flip to connect the two islands.
 
   Output: 1
 
-#Constraints:
+Constraints:
 
   n == grid.length == grid[i].length
 
