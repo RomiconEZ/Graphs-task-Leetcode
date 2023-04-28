@@ -7,7 +7,7 @@ Level 1 of videos are all watched videos by your friends, level 2 of videos are 
 
 ## Example 1:
 
-![image](https://user-images.githubusercontent.com/94119476/235182438-f31e93f6-0b74-45e3-a195-8b269a8f7e0d.png)
+![image](https://user-images.githubusercontent.com/94119476/235185701-9a338f51-7f51-4a1d-abaa-84942c8b8b81.png)
 
 Input: watchedVideos = [["A","B"],["C"],["B","C"],["D"]], friends = [[1,2],[0,3],[0,3],[1,2]], id = 0, level = 1
 Output: ["B","C"] 
@@ -22,7 +22,7 @@ C -> 2
 
 ## Example 2:
 
-![image](https://user-images.githubusercontent.com/94119476/235182523-be62e3a0-e2b6-42b0-8b82-4aebe12c3174.png)
+![image](https://user-images.githubusercontent.com/94119476/235185736-c823b0c6-8db5-4c5c-9b40-94c707014007.png)
 
 Input: watchedVideos = [["A","B"],["C"],["B","C"],["D"]], friends = [[1,2],[0,3],[0,3],[1,2]], id = 0, level = 2
 
