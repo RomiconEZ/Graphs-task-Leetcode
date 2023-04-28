@@ -9,7 +9,7 @@ Return true if it is possible to make the matrix disconnect or false otherwise.
 
 Note that flipping a cell changes its value from 0 to 1 or from 1 to 0.
 
-![image](https://user-images.githubusercontent.com/94119476/235181574-73d5d4f6-1248-4d6b-9e39-b2d90a9acc0e.png)
+![image](https://user-images.githubusercontent.com/94119476/235185572-9de0c3d7-4d5e-41e0-90ea-36007cf9c53c.png)
 
 ## Example 1:
 
@@ -21,7 +21,7 @@ Explanation: We can change the cell shown in the diagram above. There is no path
 
 ## Example 2:
 
-![image](https://user-images.githubusercontent.com/94119476/235181825-a1f3df3e-e659-4664-bf74-8c409b534c9a.png)
+![image](https://user-images.githubusercontent.com/94119476/235185605-ad916d97-4900-47b3-836f-67c097ea4d3f.png)
 
 Input: grid = [[1,1,1],[1,0,1],[1,1,1]]
 
