@@ -12,6 +12,8 @@ Return the array answer.
 
 Example 1:
 
+![image](https://user-images.githubusercontent.com/94119476/235188102-1423e4da-a0cc-4ec4-8d6d-558772b6a7f9.png)
+
 Input: root = [6,2,13,1,4,9,15,null,null,null,null,null,null,14], queries = [2,5,16]
 
 Output: [[2,2],[4,6],[15,-1]]
@@ -22,6 +24,8 @@ Explanation: We answer the queries in the following way:
 - The largest number that is smaller or equal than 16 in the tree is 15, and the smallest number that is greater or equal than 16 does not exist. So the answer for the third query is [15,-1].
 
 Example 2:
+
+![image](https://user-images.githubusercontent.com/94119476/235188699-19ba9721-b253-4d25-8018-bdfce7a34e9c.png)
 
 Input: root = [4,null,9], queries = [3]
 
