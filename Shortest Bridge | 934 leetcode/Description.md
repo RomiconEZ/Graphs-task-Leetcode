@@ -12,7 +12,7 @@ Example 1:
 
   Output: 1
 
-##Example 2:
+Example 2:
 
   Input: grid = [[0,1,0],[0,0,0],[0,0,1]]
 
